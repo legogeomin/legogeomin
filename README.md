@@ -22,4 +22,4 @@ I am currently working on:
 
 <br>
 
-You can reach me at [legogeomin@gmail.com](mailto:legogeomin@gmail.com), [legojimin@snu.ac.kr](mailto:legojimin@snu.ac.kr), or [hwangj7@myumanitoba.ca](mailto:hwangj7@myumanitoba.ca), or find me at [Jimin Hwang](https://orcid.org/my-orcid?orcid=0009-0004-0548-4339).
+You can reach me at [legogeomin@gmail.com](mailto:legogeomin@gmail.com), [legojimin@snu.ac.kr](mailto:legojimin@snu.ac.kr), or [hwangj7@myumanitoba.ca](mailto:hwangj7@myumanitoba.ca), or find me at [Jimin Hwang](https://orcid.org/0009-0004-0548-4339).
