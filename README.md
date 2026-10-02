@@ -10,7 +10,7 @@ My methodological interests include machine learning, geostatistics, numerical m
 
 I have worked on leveraging machine learning to investigate groundwater dynamics under climate change, including:
 
-- Simulation of future groundwater levels under CMIP6 SSP scenarios using explainable deep learning.
+- Projection of future groundwater levels under CMIP6 SSP scenarios using explainable deep learning.
 - Characterization of regional groundwater drought using unsupervised machine learning.
 - Estimation of groundwater–surface water exchange fluxes under hydroclimatic extremes using physics-informed neural networks.
 
