@@ -6,8 +6,6 @@ I am interested in improving our understanding of subsurface systems (especially
 
 My methodological interests include machine learning, geostatistics, numerical modeling, and inverse modeling.
 
-<br>
-
 I have worked on leveraging machine learning to investigate groundwater dynamics under climate change, including:
 
 - Projection of future groundwater levels under CMIP6 SSP scenarios using explainable deep learning.
