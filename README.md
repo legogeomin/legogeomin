@@ -2,7 +2,7 @@
 
 Hi, I’m Jimin Hwang, and I am a PhD student in the Department of Earth Sciences at the University of Manitoba, Canada.
 
-I am interested in improving our understanding of subsurface systems (especially groundwater) by integrating hydrogeological and geophysical data.
+I am interested in advancing our understanding of hydro(geo)logical systems through the integration of hydrological and geophysical data.
 
 My methodological interests include machine learning, geostatistics, numerical modeling, and inverse modeling.
 
